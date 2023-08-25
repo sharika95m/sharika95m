@@ -15,6 +15,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharika95m&show_icons=true&theme=radical)
 
+---
+
 ### My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharika95m&layout=compact)
