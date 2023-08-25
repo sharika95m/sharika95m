@@ -9,6 +9,10 @@
 🔭 I’m currently working as an Analytics Engineering Intern at Netflix.
 📫 How to reach me: sharikam2019@gmail.com
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharika95m&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **sharika95m/sharika95m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
