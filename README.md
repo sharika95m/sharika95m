@@ -1,8 +1,9 @@
+:woman_technologist:
 ### Hi there 👋 I'm Sharika.
 
 ---
 
-:woman_technologist: About me:
+### About me:
 
 😄 Pronouns: she/her/hers
 
